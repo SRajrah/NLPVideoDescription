@@ -1,0 +1,8 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment variable files (e.g., dotenv)
+.env
+
+# Custom folder to ignore
+Videos/
