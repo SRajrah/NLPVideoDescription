@@ -1,0 +1,1602 @@
+[
+    {
+        "id": "query-0",
+        "sentence": "A lone biker is jumping in the air"
+    },
+    {
+        "id": "answer-0",
+        "sentence": "A biker is jumping in the air, alone"
+    },
+    {
+        "id": "query-1",
+        "sentence": "A dog that has a brown and white coat is trotting through shallow water"
+    },
+    {
+        "id": "answer-1",
+        "sentence": "A dog that has a white and brown colored coat is trotting through shallow water."
+    },
+    {
+        "id": "query-2",
+        "sentence": "The teenage girl is wearing beads that are red"
+    },
+    {
+        "id": "answer-2",
+        "sentence": "A teenage girl is wearing beads that are red"
+    },
+    {
+        "id": "query-3",
+        "sentence": "A young lady with light brown hair is wearing a red necklace, a sweatshirt and earrings and is smiling"
+    },
+    {
+        "id": "answer-3",
+        "sentence": "A lady of young age, with light brown hair, is wearing a red necklace, a sweatshirt and earrings and is smiling"
+    },
+    {
+        "id": "query-4",
+        "sentence": "A fearful little boy is on a climbing wall"
+    },
+    {
+        "id": "answer-4",
+        "sentence": "A little boy, who looks fearful, is on a climbing wall."
+    },
+    {
+        "id": "query-5",
+        "sentence": "A person is climbing a rock with a rope, which is pink"
+    },
+    {
+        "id": "answer-5",
+        "sentence": "A rock is being climbed by a person with a rope, which is pink"
+    },
+    {
+        "id": "query-6",
+        "sentence": "A dog which is furry and black is in a backyard and is carrying a basket in its mouth."
+    },
+    {
+        "id": "answer-6",
+        "sentence": "A dog which is furry and black is in a back yard and is carrying a basket in its mouth"
+    },
+    {
+        "id": "query-7",
+        "sentence": "One man is leading the race"
+    },
+    {
+        "id": "answer-7",
+        "sentence": "A man is leading the race"
+    },
+    {
+        "id": "query-8",
+        "sentence": "A group of people is equipped with protective gear"
+    },
+    {
+        "id": "answer-8",
+        "sentence": "A group of people is equipped with gear used for protection"
+    },
+    {
+        "id": "query-9",
+        "sentence": "A man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face"
+    },
+    {
+        "id": "answer-9",
+        "sentence": "A man in a shirt dyed purple is looking at a man in a black shirt who is doing a face which looks funny"
+    },
+    {
+        "id": "query-10",
+        "sentence": "The man and the boy are standing at the bottom of the stairs, which are outdoors"
+    },
+    {
+        "id": "answer-10",
+        "sentence": "A man and a boy are standing at the bottom of some stairs, which are outdoors"
+    },
+    {
+        "id": "query-11",
+        "sentence": "A woman is wearing sunglasses of large size and is holding newspapers in both hands"
+    },
+    {
+        "id": "answer-11",
+        "sentence": "The woman is wearing sunglasses of large size and is holding newspapers in both hands"
+    },
+    {
+        "id": "query-12",
+        "sentence": "One person who is practicing snowboarding jumps into the air"
+    },
+    {
+        "id": "answer-12",
+        "sentence": "A person who is practicing snowboarding jumps into the air"
+    },
+    {
+        "id": "query-13",
+        "sentence": "A man is driving a car"
+    },
+    {
+        "id": "answer-13",
+        "sentence": "The car is being driven by a man"
+    },
+    {
+        "id": "query-14",
+        "sentence": "A woman is slicing a carrot"
+    },
+    {
+        "id": "answer-14",
+        "sentence": "A carrot is being sliced by a woman"
+    },
+    {
+        "id": "query-15",
+        "sentence": "A potato is being sliced by a woman"
+    },
+    {
+        "id": "answer-15",
+        "sentence": "A woman is slicing a potato"
+    },
+    {
+        "id": "query-16",
+        "sentence": "A band is performing onstage"
+    },
+    {
+        "id": "answer-16",
+        "sentence": "A band is performing on a stage"
+    },
+    {
+        "id": "query-17",
+        "sentence": "A band is playing on a stage"
+    },
+    {
+        "id": "answer-17",
+        "sentence": "A band is playing onstage"
+    },
+    {
+        "id": "query-18",
+        "sentence": "A cat is stuck on a ceiling fan that is moving"
+    },
+    {
+        "id": "answer-18",
+        "sentence": "A cat is stuck on a moving ceiling fan"
+    },
+    {
+        "id": "query-19",
+        "sentence": "A machine is sharpening a pencil"
+    },
+    {
+        "id": "answer-19",
+        "sentence": "The machine is shaving the end of a pencil"
+    },
+    {
+        "id": "query-20",
+        "sentence": "A steak is being rinsed with water by a person"
+    },
+    {
+        "id": "answer-20",
+        "sentence": "A person is rinsing a steak with water"
+    },
+    {
+        "id": "query-21",
+        "sentence": "Butter is being chopped into a container by a man"
+    },
+    {
+        "id": "answer-21",
+        "sentence": "A man is chopping butter into a container"
+    },
+    {
+        "id": "query-22",
+        "sentence": "A trumpet is being played by a person"
+    },
+    {
+        "id": "answer-22",
+        "sentence": "A person is playing a trumpet"
+    },
+    {
+        "id": "query-23",
+        "sentence": "The man is typing on a machine used for stenography"
+    },
+    {
+        "id": "answer-23",
+        "sentence": "A man is typing on a machine used for stenography"
+    },
+    {
+        "id": "query-24",
+        "sentence": "The milk is being drunk by a cat"
+    },
+    {
+        "id": "answer-24",
+        "sentence": "The cat is drinking some milk"
+    },
+    {
+        "id": "query-25",
+        "sentence": "A man is slicing an onion"
+    },
+    {
+        "id": "answer-25",
+        "sentence": "The onion is being cut by the man"
+    },
+    {
+        "id": "query-26",
+        "sentence": "Somebody is playing the piano"
+    },
+    {
+        "id": "answer-26",
+        "sentence": "The piano is being played by someone"
+    },
+    {
+        "id": "query-27",
+        "sentence": "A boy is happily playing the piano"
+    },
+    {
+        "id": "answer-27",
+        "sentence": "One boy is happily playing a piano"
+    },
+    {
+        "id": "query-28",
+        "sentence": "The parrot is speaking"
+    },
+    {
+        "id": "answer-28",
+        "sentence": "A parrot is speaking"
+    },
+    {
+        "id": "query-29",
+        "sentence": "The woman is pouring oil into a skillet"
+    },
+    {
+        "id": "answer-29",
+        "sentence": "Oil is being poured into a skillet by the woman"
+    },
+    {
+        "id": "query-30",
+        "sentence": "The horse is being ridden by a man"
+    },
+    {
+        "id": "answer-30",
+        "sentence": "A man is riding the horse"
+    },
+    {
+        "id": "query-31",
+        "sentence": "A man is dangerously throwing knives at the tree"
+    },
+    {
+        "id": "answer-31",
+        "sentence": "A man is dangerously throwing knives at a tree"
+    },
+    {
+        "id": "query-32",
+        "sentence": "The cat is playing with a device"
+    },
+    {
+        "id": "answer-32",
+        "sentence": "A cat is playing with a device"
+    },
+    {
+        "id": "query-33",
+        "sentence": "One man is talking to a girl with an internet camera"
+    },
+    {
+        "id": "answer-33",
+        "sentence": "One man is chatting with a girl with an internet camera"
+    },
+    {
+        "id": "query-34",
+        "sentence": "A woman is beating two eggs in a bowl and using a whisk made of wire"
+    },
+    {
+        "id": "answer-34",
+        "sentence": "One woman is beating two eggs in the bowl and using a whisk made of wire"
+    },
+    {
+        "id": "query-35",
+        "sentence": "A small boy is playing with a dog"
+    },
+    {
+        "id": "answer-35",
+        "sentence": "The small boy is playing with the dog"
+    },
+    {
+        "id": "query-36",
+        "sentence": "The man is slicing some potatoes"
+    },
+    {
+        "id": "answer-36",
+        "sentence": "The man is slicing potatoes"
+    },
+    {
+        "id": "query-37",
+        "sentence": "The man is setting up the camera and taking sunset pictures at the beach"
+    },
+    {
+        "id": "answer-37",
+        "sentence": "The man is setting up the camera and takes pictures of the sunset at the beach"
+    },
+    {
+        "id": "query-38",
+        "sentence": "A woman is using a sewing machine"
+    },
+    {
+        "id": "answer-38",
+        "sentence": "A woman is sewing with a machine"
+    },
+    {
+        "id": "query-39",
+        "sentence": "An egg is being cracked into a bowl by a woman"
+    },
+    {
+        "id": "answer-39",
+        "sentence": "A woman is cracking an egg into a bowl"
+    },
+    {
+        "id": "query-40",
+        "sentence": "The woman is cracking two eggs into a bowl made of glass"
+    },
+    {
+        "id": "answer-40",
+        "sentence": "The woman is cracking two eggs into a glass bowl"
+    },
+    {
+        "id": "query-41",
+        "sentence": "A man is putting garlic on some slices of bread"
+    },
+    {
+        "id": "answer-41",
+        "sentence": "A man is putting garlic on some bread slices"
+    },
+    {
+        "id": "query-42",
+        "sentence": "An inflatable crocodile is being pushed by two kids in a pool"
+    },
+    {
+        "id": "answer-42",
+        "sentence": "Two kids are pushing an inflatable crocodile in a pool"
+    },
+    {
+        "id": "query-43",
+        "sentence": "Cereal is being eaten by the man"
+    },
+    {
+        "id": "answer-43",
+        "sentence": "The man is eating cereal"
+    },
+    {
+        "id": "query-44",
+        "sentence": "A dog is biting a can"
+    },
+    {
+        "id": "answer-44",
+        "sentence": "A can is being bitten by a dog"
+    },
+    {
+        "id": "query-45",
+        "sentence": "One cat is playing with a watermelon"
+    },
+    {
+        "id": "answer-45",
+        "sentence": "The cat is playing with a watermelon"
+    },
+    {
+        "id": "query-46",
+        "sentence": "A cat is playing with a watermelon"
+    },
+    {
+        "id": "answer-46",
+        "sentence": "The cat is playing with a watermelon"
+    },
+    {
+        "id": "query-47",
+        "sentence": "The oriental lady is cutting a carrot into thin pieces"
+    },
+    {
+        "id": "answer-47",
+        "sentence": "The oriental lady is cutting a carrot into pieces that are thin"
+    },
+    {
+        "id": "query-48",
+        "sentence": "A man is pouring a plate of shredded cheese into a pot of sauce"
+    },
+    {
+        "id": "answer-48",
+        "sentence": "A man is pouring a plate of cheese which is shredded into a pot of sauce"
+    },
+    {
+        "id": "query-49",
+        "sentence": "A person is slicing a carrot into pieces"
+    },
+    {
+        "id": "answer-49",
+        "sentence": "A carrot is being sliced into pieces by a person"
+    },
+    {
+        "id": "query-50",
+        "sentence": "The man is slicing a potato"
+    },
+    {
+        "id": "answer-50",
+        "sentence": "The man is slicing the potato"
+    },
+    {
+        "id": "query-51",
+        "sentence": "Somebody is cutting a tomato"
+    },
+    {
+        "id": "answer-51",
+        "sentence": "Someone is cutting a tomato"
+    },
+    {
+        "id": "query-52",
+        "sentence": "A man is preparing some dish"
+    },
+    {
+        "id": "answer-52",
+        "sentence": "A man is preparing a dish"
+    },
+    {
+        "id": "query-53",
+        "sentence": "A man is riding a motorbike"
+    },
+    {
+        "id": "answer-53",
+        "sentence": "A man is riding a motorcycle"
+    },
+    {
+        "id": "query-54",
+        "sentence": "The woman is dancing"
+    },
+    {
+        "id": "answer-54",
+        "sentence": "The lady is dancing"
+    },
+    {
+        "id": "query-55",
+        "sentence": "A cat is eating some corn"
+    },
+    {
+        "id": "answer-55",
+        "sentence": "The cat is eating some corn"
+    },
+    {
+        "id": "query-56",
+        "sentence": "The man is playing a flute"
+    },
+    {
+        "id": "answer-56",
+        "sentence": "A flute is being played by the man"
+    },
+    {
+        "id": "query-57",
+        "sentence": "A tiger is aimlessly walking around"
+    },
+    {
+        "id": "answer-57",
+        "sentence": "A tiger is walking around aimlessly"
+    },
+    {
+        "id": "query-58",
+        "sentence": "A monkey is brushing the dog"
+    },
+    {
+        "id": "answer-58",
+        "sentence": "The monkey is brushing the dog"
+    },
+    {
+        "id": "query-59",
+        "sentence": "The lady is dicing onions"
+    },
+    {
+        "id": "answer-59",
+        "sentence": "The woman is dicing onions"
+    },
+    {
+        "id": "query-60",
+        "sentence": "The man with a hard hat is dancing"
+    },
+    {
+        "id": "answer-60",
+        "sentence": "A man is wearing a hard hat and dancing"
+    },
+    {
+        "id": "query-61",
+        "sentence": "A woman is cutting a potato"
+    },
+    {
+        "id": "answer-61",
+        "sentence": "A woman is slicing a potato"
+    },
+    {
+        "id": "query-62",
+        "sentence": "The person is boiling noodles"
+    },
+    {
+        "id": "answer-62",
+        "sentence": "A person is boiling noodles"
+    },
+    {
+        "id": "query-63",
+        "sentence": "Noodles are being boiled in water by a woman"
+    },
+    {
+        "id": "answer-63",
+        "sentence": "A woman is boiling noodles in water"
+    },
+    {
+        "id": "query-64",
+        "sentence": "A woman, who is seated, is singing a song and playing the guitar"
+    },
+    {
+        "id": "answer-64",
+        "sentence": "A seated woman is singing a song and playing the guitar"
+    },
+    {
+        "id": "query-65",
+        "sentence": "The woman is cracking eggs into a bowl"
+    },
+    {
+        "id": "answer-65",
+        "sentence": "Eggs are being cracked into a bowl by the woman"
+    },
+    {
+        "id": "query-66",
+        "sentence": "A person is pouring oil for cooking into a pot"
+    },
+    {
+        "id": "answer-66",
+        "sentence": "A person is pouring cooking oil into a pot"
+    },
+    {
+        "id": "query-67",
+        "sentence": "A guinea pig is devouring a carrot"
+    },
+    {
+        "id": "answer-67",
+        "sentence": "A guinea pig is eating a carrot"
+    },
+    {
+        "id": "query-68",
+        "sentence": "The woman is slicing an onion"
+    },
+    {
+        "id": "answer-68",
+        "sentence": "An onion is being sliced by the woman"
+    },
+    {
+        "id": "query-69",
+        "sentence": "The lady is penciling on eyeshadow"
+    },
+    {
+        "id": "answer-69",
+        "sentence": "The woman is penciling on eyeshadow"
+    },
+    {
+        "id": "query-70",
+        "sentence": "The woman is cooking eggs"
+    },
+    {
+        "id": "answer-70",
+        "sentence": "A woman is cooking eggs"
+    },
+    {
+        "id": "query-71",
+        "sentence": "A woman is playing a flute"
+    },
+    {
+        "id": "answer-71",
+        "sentence": "The flute is being played by the woman"
+    },
+    {
+        "id": "query-72",
+        "sentence": "The woman is playing the flute"
+    },
+    {
+        "id": "answer-72",
+        "sentence": "A woman is playing a flute"
+    },
+    {
+        "id": "query-73",
+        "sentence": "A lady is putting on makeup"
+    },
+    {
+        "id": "answer-73",
+        "sentence": "A woman is putting on makeup"
+    },
+    {
+        "id": "query-74",
+        "sentence": "A woman is putting cosmetics on her eyelid"
+    },
+    {
+        "id": "answer-74",
+        "sentence": "A woman is applying cosmetics to her eyelid"
+    },
+    {
+        "id": "query-75",
+        "sentence": "A woman is penciling on eyeshadow"
+    },
+    {
+        "id": "answer-75",
+        "sentence": "The woman is penciling on eyeshadow"
+    },
+    {
+        "id": "query-76",
+        "sentence": "A woman is playing an electric guitar"
+    },
+    {
+        "id": "answer-76",
+        "sentence": "A woman is playing a guitar which is electric"
+    },
+    {
+        "id": "query-77",
+        "sentence": "A man in a suit is standing at a microphone and singing"
+    },
+    {
+        "id": "answer-77",
+        "sentence": "The man in a suit is standing at a microphone and singing"
+    },
+    {
+        "id": "query-78",
+        "sentence": "The puppy is playing with a plastic container"
+    },
+    {
+        "id": "answer-78",
+        "sentence": "The puppy is playing with a container made of plastic"
+    },
+    {
+        "id": "query-79",
+        "sentence": "The man is pouring oil into a pan"
+    },
+    {
+        "id": "answer-79",
+        "sentence": "A man is pouring oil into a pan"
+    },
+    {
+        "id": "query-80",
+        "sentence": "A man is pouring oil into a skillet"
+    },
+    {
+        "id": "answer-80",
+        "sentence": "Oil is being poured into a skillet by a man"
+    },
+    {
+        "id": "query-81",
+        "sentence": "A man is pouring oil into a pan"
+    },
+    {
+        "id": "answer-81",
+        "sentence": "Oil is being poured into a skillet by a man"
+    },
+    {
+        "id": "query-82",
+        "sentence": "The person is brushing a cat"
+    },
+    {
+        "id": "answer-82",
+        "sentence": "A person is brushing a cat"
+    },
+    {
+        "id": "query-83",
+        "sentence": "The man is sitting on the floor in a room and strumming a guitar"
+    },
+    {
+        "id": "answer-83",
+        "sentence": "A man is sitting on the floor in a room and strumming a guitar"
+    },
+    {
+        "id": "query-84",
+        "sentence": "A man is performing tricks with a soccer ball"
+    },
+    {
+        "id": "answer-84",
+        "sentence": "A man is doing some tricks with a soccer ball"
+    },
+    {
+        "id": "query-85",
+        "sentence": "The man is cutting the tape on the box"
+    },
+    {
+        "id": "answer-85",
+        "sentence": "A man is cutting the tape on the box"
+    },
+    {
+        "id": "query-86",
+        "sentence": "A boy, who is young, is playing a wind instrument"
+    },
+    {
+        "id": "answer-86",
+        "sentence": "A young boy is playing a wind instrument"
+    },
+    {
+        "id": "query-87",
+        "sentence": "A lady is mixing a meat mixture in a bowl"
+    },
+    {
+        "id": "answer-87",
+        "sentence": "A lady is mixing a mixture of meat in a bowl"
+    },
+    {
+        "id": "query-88",
+        "sentence": "A boy is hanging a fishing rod and running in front of a fish "
+    },
+    {
+        "id": "answer-88",
+        "sentence": "A boy is hanging a rod for fishing and running in front of a fish"
+    },
+    {
+        "id": "query-89",
+        "sentence": "A man is playing the guitar"
+    },
+    {
+        "id": "answer-89",
+        "sentence": "The man is playing the guitar"
+    },
+    {
+        "id": "query-90",
+        "sentence": "A man is playing the guitar"
+    },
+    {
+        "id": "answer-90",
+        "sentence": "A guitar is being played by a man"
+    },
+    {
+        "id": "query-91",
+        "sentence": "The man is playing the guitar"
+    },
+    {
+        "id": "answer-91",
+        "sentence": "A man is playing the guitar"
+    },
+    {
+        "id": "query-92",
+        "sentence": "The boy, who is young, is running through the ocean waves"
+    },
+    {
+        "id": "answer-92",
+        "sentence": "The young boy is running through the ocean waves"
+    },
+    {
+        "id": "query-93",
+        "sentence": "A woman is grating carrots"
+    },
+    {
+        "id": "answer-93",
+        "sentence": "Carrots are being grated by a woman"
+    },
+    {
+        "id": "query-94",
+        "sentence": "A man and a woman are walking through the woods"
+    },
+    {
+        "id": "answer-94",
+        "sentence": "The man and the woman are walking through the woods"
+    },
+    {
+        "id": "query-95",
+        "sentence": "A potato is being peeled by a woman"
+    },
+    {
+        "id": "answer-95",
+        "sentence": "A woman is peeling a potato"
+    },
+    {
+        "id": "query-96",
+        "sentence": "A person is folding a tortilla"
+    },
+    {
+        "id": "answer-96",
+        "sentence": "A tortilla is being folded by a person"
+    },
+    {
+        "id": "query-97",
+        "sentence": "A man is playing a harp"
+    },
+    {
+        "id": "answer-97",
+        "sentence": "The man is playing a harp"
+    },
+    {
+        "id": "query-98",
+        "sentence": "A tray is being buttered by a person"
+    },
+    {
+        "id": "answer-98",
+        "sentence": "A person is buttering a tray"
+    },
+    {
+        "id": "query-99",
+        "sentence": "A woman is being handed volleyballs by another woman"
+    },
+    {
+        "id": "answer-99",
+        "sentence": "One woman is handing volleyballs to another woman"
+    },
+    {
+        "id": "query-100",
+        "sentence": "The man is thinking"
+    },
+    {
+        "id": "answer-100",
+        "sentence": "A man is thinking"
+    },
+    {
+        "id": "query-101",
+        "sentence": "The dog is licking the baby"
+    },
+    {
+        "id": "answer-101",
+        "sentence": "A dog is licking a baby"
+    },
+    {
+        "id": "query-102",
+        "sentence": "A frog is being handled by the woman"
+    },
+    {
+        "id": "answer-102",
+        "sentence": "The woman is handling a frog"
+    },
+    {
+        "id": "query-103",
+        "sentence": "The boys are standing in front of the car, which is burning"
+    },
+    {
+        "id": "answer-103",
+        "sentence": "The boys are standing in front of the burning car"
+    },
+    {
+        "id": "query-104",
+        "sentence": "A boy is filling a pitcher with water"
+    },
+    {
+        "id": "answer-104",
+        "sentence": "A pitcher is being filled with water by a boy"
+    },
+    {
+        "id": "query-105",
+        "sentence": "A man is strolling in the rain"
+    },
+    {
+        "id": "answer-105",
+        "sentence": "A man is walking in the rain"
+    },
+    {
+        "id": "query-106",
+        "sentence": "The men are putting suitcases into the trunk of a car"
+    },
+    {
+        "id": "answer-106",
+        "sentence": "The men are packing suitcases into the trunk of a car"
+    },
+    {
+        "id": "query-107",
+        "sentence": "A woman is putting on eyeshadow"
+    },
+    {
+        "id": "answer-107",
+        "sentence": "Eyeshadow is being put on by a woman"
+    },
+    {
+        "id": "query-108",
+        "sentence": "The boy is studying a calendar"
+    },
+    {
+        "id": "answer-108",
+        "sentence": "A boy is studying a calendar"
+    },
+    {
+        "id": "query-109",
+        "sentence": "A cat is thrown at the ceiling by a person"
+    },
+    {
+        "id": "answer-109",
+        "sentence": "A person is throwing a cat at the ceiling"
+    },
+    {
+        "id": "query-110",
+        "sentence": "A person is scrubbing a zucchini"
+    },
+    {
+        "id": "answer-110",
+        "sentence": "The person is scrubbing a zucchini"
+    },
+    {
+        "id": "query-111",
+        "sentence": "A man in a cap is playing a harp"
+    },
+    {
+        "id": "answer-111",
+        "sentence": "A man in a hat is playing a harp"
+    },
+    {
+        "id": "query-112",
+        "sentence": "The pepper is being sliced by a woman with a knife"
+    },
+    {
+        "id": "answer-112",
+        "sentence": "The woman with a knife is slicing a pepper"
+    },
+    {
+        "id": "query-113",
+        "sentence": "The woman is playing a flute"
+    },
+    {
+        "id": "answer-113",
+        "sentence": "A woman is playing a flute"
+    },
+    {
+        "id": "query-114",
+        "sentence": "The cat is playing keyboards"
+    },
+    {
+        "id": "answer-114",
+        "sentence": "A cat is playing keyboards"
+    },
+    {
+        "id": "query-115",
+        "sentence": "The man is rising from a swamp"
+    },
+    {
+        "id": "answer-115",
+        "sentence": "A man is rising from a swamp"
+    },
+    {
+        "id": "query-116",
+        "sentence": "A man is dancing upside-down on the ceiling"
+    },
+    {
+        "id": "answer-116",
+        "sentence": "The man is dancing upside-down on the ceiling"
+    },
+    {
+        "id": "query-117",
+        "sentence": "The girl is exercising"
+    },
+    {
+        "id": "answer-117",
+        "sentence": "A girl is exercising"
+    },
+    {
+        "id": "query-118",
+        "sentence": "Two men are doing a funny skit with a boxer in front of a crowd of people"
+    },
+    {
+        "id": "answer-118",
+        "sentence": "Two men are doing a skit, which is very funny, with a boxer in front of a crowd of people"
+    },
+    {
+        "id": "query-119",
+        "sentence": "A woman is peeling a potato"
+    },
+    {
+        "id": "answer-119",
+        "sentence": "The woman is peeling a potato"
+    },
+    {
+        "id": "query-120",
+        "sentence": "A woman is slicing a tomato"
+    },
+    {
+        "id": "answer-120",
+        "sentence": "A tomato is being sliced by a woman"
+    },
+    {
+        "id": "query-121",
+        "sentence": "A person is riding a jetski in the waves"
+    },
+    {
+        "id": "answer-121",
+        "sentence": "The person is riding a jetski in the waves"
+    },
+    {
+        "id": "query-122",
+        "sentence": "A Seadoo is being ridden by a woman"
+    },
+    {
+        "id": "answer-122",
+        "sentence": "A woman is riding a Seadoo"
+    },
+    {
+        "id": "query-123",
+        "sentence": "A horse is being ridden by a man"
+    },
+    {
+        "id": "answer-123",
+        "sentence": "A man is riding a horse"
+    },
+    {
+        "id": "query-124",
+        "sentence": "One man is riding a horse"
+    },
+    {
+        "id": "answer-124",
+        "sentence": "The man is riding a horse"
+    },
+    {
+        "id": "query-125",
+        "sentence": "A horse is being ridden by a man"
+    },
+    {
+        "id": "answer-125",
+        "sentence": "The man is riding a horse"
+    },
+    {
+        "id": "query-126",
+        "sentence": "The man is riding a horse"
+    },
+    {
+        "id": "answer-126",
+        "sentence": "A man is riding a horse"
+    },
+    {
+        "id": "query-127",
+        "sentence": "Some food is being eaten by a man"
+    },
+    {
+        "id": "answer-127",
+        "sentence": "A man is eating some food"
+    },
+    {
+        "id": "query-128",
+        "sentence": "A dog is jumping on a trampoline"
+    },
+    {
+        "id": "answer-128",
+        "sentence": "A dog is bouncing on a trampoline"
+    },
+    {
+        "id": "query-129",
+        "sentence": "A man is playing a wooden flute"
+    },
+    {
+        "id": "answer-129",
+        "sentence": "A wooden flute is being played by a man"
+    },
+    {
+        "id": "query-130",
+        "sentence": "A man is slicing some bread"
+    },
+    {
+        "id": "answer-130",
+        "sentence": "A man is slicing bread"
+    },
+    {
+        "id": "query-131",
+        "sentence": "A woman is stroking a lemur"
+    },
+    {
+        "id": "answer-131",
+        "sentence": "A lemur is being stroked by a woman"
+    },
+    {
+        "id": "query-132",
+        "sentence": "The woman is slicing cooked octopus"
+    },
+    {
+        "id": "answer-132",
+        "sentence": "The woman is cutting cooked octopus"
+    },
+    {
+        "id": "query-133",
+        "sentence": "A man is drawing"
+    },
+    {
+        "id": "answer-133",
+        "sentence": "The man is drawing"
+    },
+    {
+        "id": "query-134",
+        "sentence": "Someone is playing a piano"
+    },
+    {
+        "id": "answer-134",
+        "sentence": "A piano is being played by someone"
+    },
+    {
+        "id": "query-135",
+        "sentence": "A guy is riding a horse"
+    },
+    {
+        "id": "answer-135",
+        "sentence": "A horse is being ridden by a guy"
+    },
+    {
+        "id": "query-136",
+        "sentence": "A paper plate is being cut by a man"
+    },
+    {
+        "id": "answer-136",
+        "sentence": "A man is cutting a paper plate"
+    },
+    {
+        "id": "query-137",
+        "sentence": "A man is cutting a paper plate"
+    },
+    {
+        "id": "answer-137",
+        "sentence": "A paper plate is being cut by the man"
+    },
+    {
+        "id": "query-138",
+        "sentence": "A man is cutting a paper plate"
+    },
+    {
+        "id": "answer-138",
+        "sentence": "The man is cutting a paper plate"
+    },
+    {
+        "id": "query-139",
+        "sentence": "The content of a bowl is being mixed by a man"
+    },
+    {
+        "id": "answer-139",
+        "sentence": "A man is mixing the content of a bowl"
+    },
+    {
+        "id": "query-140",
+        "sentence": "The woman is pouring oil into the pan"
+    },
+    {
+        "id": "answer-140",
+        "sentence": "Oil is being poured into the pan by the woman"
+    },
+    {
+        "id": "query-141",
+        "sentence": "A piece of wood is being screwed to a wall by a man"
+    },
+    {
+        "id": "answer-141",
+        "sentence": "A man is screwing a piece of wood to a wall"
+    },
+    {
+        "id": "query-142",
+        "sentence": "A horse is being ridden by a woman"
+    },
+    {
+        "id": "answer-142",
+        "sentence": "A woman is riding a horse"
+    },
+    {
+        "id": "query-143",
+        "sentence": "A woman is riding a horse"
+    },
+    {
+        "id": "answer-143",
+        "sentence": "A horse is being ridden by a woman"
+    },
+    {
+        "id": "query-144",
+        "sentence": "A violin is being played by a man"
+    },
+    {
+        "id": "answer-144",
+        "sentence": "A man is playing a violin"
+    },
+    {
+        "id": "query-145",
+        "sentence": "A keyboard is being played by a man"
+    },
+    {
+        "id": "answer-145",
+        "sentence": "A man is playing a keyboard"
+    },
+    {
+        "id": "query-146",
+        "sentence": "The girl is sitting on the couch and is crocheting"
+    },
+    {
+        "id": "answer-146",
+        "sentence": "The girl is sitting on the sofa and crocheting"
+    },
+    {
+        "id": "query-147",
+        "sentence": "A boy is playing guitar"
+    },
+    {
+        "id": "answer-147",
+        "sentence": "A guitar is being played by a boy"
+    },
+    {
+        "id": "query-148",
+        "sentence": "A guitar is being played by a kid"
+    },
+    {
+        "id": "answer-148",
+        "sentence": "A kid is playing guitar"
+    },
+    {
+        "id": "query-149",
+        "sentence": "A person is slicing an onion"
+    },
+    {
+        "id": "answer-149",
+        "sentence": "An onion is being sliced by a person"
+    },
+    {
+        "id": "query-150",
+        "sentence": "Some instruments are being played by a band"
+    },
+    {
+        "id": "answer-150",
+        "sentence": "A band is playing some instruments"
+    },
+    {
+        "id": "query-151",
+        "sentence": "Carrots are being sliced by a woman"
+    },
+    {
+        "id": "answer-151",
+        "sentence": "A woman is slicing carrots"
+    },
+    {
+        "id": "query-152",
+        "sentence": "A woman is cutting a fish"
+    },
+    {
+        "id": "answer-152",
+        "sentence": "A woman is slicing a fish"
+    },
+    {
+        "id": "query-153",
+        "sentence": "Makeup is being put on the man by the woman"
+    },
+    {
+        "id": "answer-153",
+        "sentence": "The woman is putting makeup on the man"
+    },
+    {
+        "id": "query-154",
+        "sentence": "A door is being opened by a man"
+    },
+    {
+        "id": "answer-154",
+        "sentence": "A man is opening a door"
+    },
+    {
+        "id": "query-155",
+        "sentence": "A woman is frying some food"
+    },
+    {
+        "id": "answer-155",
+        "sentence": "Some food is being fried by a woman"
+    },
+    {
+        "id": "query-156",
+        "sentence": "Some sticky goo is being pulled out of a bowl by a woman"
+    },
+    {
+        "id": "answer-156",
+        "sentence": "A woman is pulling some sticky goo out of a bowl"
+    },
+    {
+        "id": "query-157",
+        "sentence": "The woman is putting pasta into a dish"
+    },
+    {
+        "id": "answer-157",
+        "sentence": "Pasta is being put into a dish by a woman"
+    },
+    {
+        "id": "query-158",
+        "sentence": "A tiger is walking around"
+    },
+    {
+        "id": "answer-158",
+        "sentence": "A tiger is strolling around"
+    },
+    {
+        "id": "query-159",
+        "sentence": "Somebody is folding a piece of paper"
+    },
+    {
+        "id": "answer-159",
+        "sentence": "Someone is folding a piece of paper"
+    },
+    {
+        "id": "query-160",
+        "sentence": "The lady is peeling the potato"
+    },
+    {
+        "id": "answer-160",
+        "sentence": "The potato is being peeled by the lady"
+    },
+    {
+        "id": "query-161",
+        "sentence": "The lady is peeling the potato"
+    },
+    {
+        "id": "answer-161",
+        "sentence": "A woman is peeling a potato"
+    },
+    {
+        "id": "query-162",
+        "sentence": "An octopus is being sliced by a woman"
+    },
+    {
+        "id": "answer-162",
+        "sentence": "A woman is slicing an octopus"
+    },
+    {
+        "id": "query-163",
+        "sentence": "The drums are being played by a man"
+    },
+    {
+        "id": "answer-163",
+        "sentence": "A man is playing the drums"
+    },
+    {
+        "id": "query-164",
+        "sentence": "The guitar is being played by a man"
+    },
+    {
+        "id": "answer-164",
+        "sentence": "A man is playing the guitar"
+    },
+    {
+        "id": "query-165",
+        "sentence": "Two pandas are lying together"
+    },
+    {
+        "id": "answer-165",
+        "sentence": "Two panda bears are lying together"
+    },
+    {
+        "id": "query-166",
+        "sentence": "A woman is frying fish"
+    },
+    {
+        "id": "answer-166",
+        "sentence": "Fish is being fried by a woman"
+    },
+    {
+        "id": "query-167",
+        "sentence": "Grass is being mowed by a man"
+    },
+    {
+        "id": "answer-167",
+        "sentence": "A man is mowing grass"
+    },
+    {
+        "id": "query-168",
+        "sentence": "A skunk is being held by a person"
+    },
+    {
+        "id": "answer-168",
+        "sentence": "A person is holding a skunk"
+    },
+    {
+        "id": "query-169",
+        "sentence": "A man is cutting tomatoes"
+    },
+    {
+        "id": "answer-169",
+        "sentence": "A man is slicing tomatoes"
+    },
+    {
+        "id": "query-170",
+        "sentence": "A cupcake is being eaten by a girl"
+    },
+    {
+        "id": "answer-170",
+        "sentence": "A girl is eating a cupcake"
+    },
+    {
+        "id": "query-171",
+        "sentence": "Someone is stirring a pot of chili with a spoon"
+    },
+    {
+        "id": "answer-171",
+        "sentence": "A pot of chili is being stirred by someone with a spoon"
+    },
+    {
+        "id": "query-172",
+        "sentence": "A small dog is lying on the bed"
+    },
+    {
+        "id": "answer-172",
+        "sentence": "A small dog is lying on a bed"
+    },
+    {
+        "id": "query-173",
+        "sentence": "A small dog is lying on a bed"
+    },
+    {
+        "id": "answer-173",
+        "sentence": "A small dog is lying on the bed"
+    },
+    {
+        "id": "query-174",
+        "sentence": "Tofu is being sliced by a woman"
+    },
+    {
+        "id": "answer-174",
+        "sentence": "A woman is slicing tofu"
+    },
+    {
+        "id": "query-175",
+        "sentence": "Some cheese is being put on a pizza by a man"
+    },
+    {
+        "id": "answer-175",
+        "sentence": "A man is putting some cheese on a pizza"
+    },
+    {
+        "id": "query-176",
+        "sentence": "Hay is being eaten by a cow"
+    },
+    {
+        "id": "answer-176",
+        "sentence": "A cow is eating hay"
+    },
+    {
+        "id": "query-177",
+        "sentence": "A person is peeling a potato"
+    },
+    {
+        "id": "answer-177",
+        "sentence": "A potato is being peeled by a person"
+    },
+    {
+        "id": "query-178",
+        "sentence": "A man is riding a motorcycle"
+    },
+    {
+        "id": "answer-178",
+        "sentence": "A motorcycle is being ridden by a man"
+    },
+    {
+        "id": "query-179",
+        "sentence": "An animal is biting a person's finger"
+    },
+    {
+        "id": "answer-179",
+        "sentence": "An animal is biting someone's finger"
+    },
+    {
+        "id": "query-180",
+        "sentence": "A horse is being ridden by a person"
+    },
+    {
+        "id": "answer-180",
+        "sentence": "A person is riding a horse"
+    },
+    {
+        "id": "query-181",
+        "sentence": "A person with a back pack, who is topless, is in front of a pile of rocks and clouds are in the background"
+    },
+    {
+        "id": "answer-181",
+        "sentence": "A topless person with a back pack is in front of a pile of rocks and clouds are in the background"
+    },
+    {
+        "id": "query-182",
+        "sentence": "The dog is catching a ball"
+    },
+    {
+        "id": "answer-182",
+        "sentence": "A dog is catching a ball"
+    },
+    {
+        "id": "query-183",
+        "sentence": "One man in a big city is holding up a sign and begging for money"
+    },
+    {
+        "id": "answer-183",
+        "sentence": "A man in a big city is holding a sign and begging for money"
+    },
+    {
+        "id": "query-184",
+        "sentence": "A small dog is chasing a large brown cow"
+    },
+    {
+        "id": "answer-184",
+        "sentence": "A dog, which is small, is chasing a large brown cow"
+    },
+    {
+        "id": "query-185",
+        "sentence": "A man and a woman are in a room painted beige, wearing dark colored shirts and a monitor is in the background"
+    },
+    {
+        "id": "answer-185",
+        "sentence": "A man and a woman are in a beige room, wearing dark colored shirts and a monitor is in the background"
+    },
+    {
+        "id": "query-186",
+        "sentence": "Two people are standing in the ocean and watching the sunset"
+    },
+    {
+        "id": "answer-186",
+        "sentence": "Two people are standing in the ocean and looking at the sunset"
+    },
+    {
+        "id": "query-187",
+        "sentence": "The person in the blue jacket is wearing a colorful helmet"
+    },
+    {
+        "id": "answer-187",
+        "sentence": "A person in a blue jacket is wearing a colorful helmet"
+    },
+    {
+        "id": "query-188",
+        "sentence": "The group of people is sitting on a ledge which is rocky and a scenic view is behind them"
+    },
+    {
+        "id": "answer-188",
+        "sentence": "The group of people is sitting on a rocky ledge and a scenic view is behind them"
+    },
+    {
+        "id": "query-189",
+        "sentence": "A malnourished looking dog is standing on its hind legs and preparing to jump"
+    },
+    {
+        "id": "answer-189",
+        "sentence": "The malnourished looking dog is standing on its hind legs and is preparing to jump"
+    },
+    {
+        "id": "query-190",
+        "sentence": "Two women are wearing bikinis and walking on the sand"
+    },
+    {
+        "id": "answer-190",
+        "sentence": "Two women are wearing bikinis and are walking on the sand"
+    },
+    {
+        "id": "query-191",
+        "sentence": "A dog, which is black, is running in the grass"
+    },
+    {
+        "id": "answer-191",
+        "sentence": "A black dog is running in the grass"
+    },
+    {
+        "id": "query-192",
+        "sentence": "The man is sitting outside under a purple umbrella"
+    },
+    {
+        "id": "answer-192",
+        "sentence": "The man is sitting outdoors under a purple umbrella"
+    },
+    {
+        "id": "query-193",
+        "sentence": "The woman is playing with two young boys at a park"
+    },
+    {
+        "id": "answer-193",
+        "sentence": "A woman is playing with two young boys at a park"
+    },
+    {
+        "id": "query-194",
+        "sentence": "A surfer is leaning on a surfboard"
+    },
+    {
+        "id": "answer-194",
+        "sentence": "The surfer is leaning on a surfboard"
+    },
+    {
+        "id": "query-195",
+        "sentence": "A dog is herding a group of white sheep on a dusty farm"
+    },
+    {
+        "id": "answer-195",
+        "sentence": "A dog is herding a pack of white sheep on a dusty farm"
+    },
+    {
+        "id": "query-196",
+        "sentence": "A sheepdog is grouping a herd of sheep"
+    },
+    {
+        "id": "answer-196",
+        "sentence": "The sheepdog is grouping a herd of sheep"
+    },
+    {
+        "id": "query-197",
+        "sentence": "The male, who is dark skinned, is standing on one hand in front of a yellow building"
+    },
+    {
+        "id": "answer-197",
+        "sentence": "The dark skinned male is standing on one hand in front of a yellow building"
+    },
+    {
+        "id": "query-198",
+        "sentence": "A bike is being ridden by a person"
+    },
+    {
+        "id": "answer-198",
+        "sentence": "A person is riding a bike"
+    },
+    {
+        "id": "query-199",
+        "sentence": "The guitar is being played by the man, who has the guitar case open for donations"
+    },
+    {
+        "id": "answer-199",
+        "sentence": "The man is playing the guitar and has the guitar case open for donations"
+    }
+]
