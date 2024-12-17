@@ -16,5 +16,5 @@ CSCI 544 - NLP Project for Video Description and Semantic Retrieval via Key Fram
 - Train and test VideoXum files are located under ```./Dataset```
 
 ### Code
-Video Captioning Pipeline: dense_video_description_pipeline.ipynb
-Video Captioning baseline: baseline.ipynb
+- Video Captioning Pipeline: dense_video_description_pipeline.ipynb
+- Video Captioning baseline: baseline.ipynb
